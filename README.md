@@ -103,10 +103,10 @@
 </a>
 
 <a href="https://trivy.dev" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/trivago.svg" alt="Trivy" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/aquasecurity/trivy/main/docs/logo.png" alt="Trivy" width="40" height="40">
 </a>
 
 <a href="https://owasp.org/" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/owasp/owasp-original.svg" alt="OWASP" width="40" height="40">
+  <img src="https://www.owasp.org/images/1/19/OWASP-Logo-1000x425.png" alt="OWASP" width="40" height="40">
 </a>
 
