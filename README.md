@@ -102,3 +102,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original-wordmark.svg" alt="Maven" width="40" height="40">
 </a>
 
+<a href="https://github.com/aquasecurity/trivy" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trivy/trivy-original-wordmark.svg" alt="Trivy" width="40" height="40">
+</a>
+
+<a href="https://owasp.org/" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/owasp/owasp-original.svg" alt="OWASP" width="40" height="40">
+</a>
+
