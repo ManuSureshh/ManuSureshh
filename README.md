@@ -85,3 +85,11 @@
 <a href="https://spring.io/" target="_blank" rel="noopener noreferrer">
   <!-- Placeholder for the link, no image provided in the original request -->
 </a>
+
+<a href="https://www.ansible.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="ansible" width="40" height="40"/>
+</a>
+
+<a href="https://www.sonarqube.org/" target="_blank" rel="noopener noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/sonarqube/sonarqube-icon.svg" alt="sonarqube" width="40" height="40"/>
+</a>
