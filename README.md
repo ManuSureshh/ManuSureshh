@@ -91,5 +91,5 @@
 </a>
 
 <a href="https://www.sonarqube.org/" target="_blank" rel="noopener noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-original.svg" alt="SonarQube" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-original.svg" alt="SonarQube" width="40" height="40">
 </a>
