@@ -93,3 +93,12 @@
 <a href="https://www.sonarqube.org/" target="_blank" rel="noopener noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-original.svg" alt="SonarQube" width="40" height="40">
 </a>
+
+<a href="https://www.npmjs.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40">
+</a>
+
+<a href="https://maven.apache.org/" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original-wordmark.svg" alt="Maven" width="40" height="40">
+</a>
+
