@@ -2,11 +2,11 @@
          alt="Waving hand animated gif"
          height="45"
          width="45" /> I'm Manu Suresh </h1>
-🔭 I’m currently working on DevOps.
 
-<br>
-
-🌱 I’m currently learning DevSecOps & Cloud DevOps.
+# 💫 About Me :
+- 😄 Pronouns: He/His
+- 🔭 I’m currently working on DevOps.
+- 🌱 I’m currently learning DevSecOps & Cloud DevOps.
 
 
 <h3 align="left">Connect with me:</h3>
