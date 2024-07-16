@@ -8,6 +8,7 @@
 - 🔭 I’m currently working on DevOps.
 - 🌱 I’m currently learning DevSecOps & Cloud DevOps.
 - 📫 How to reach me: Check social links below.
+- 🤔 I’m looking for help with Kubernetes documentation.
 - ⚡ Philosophy: The dreams last more than our lives.
 
 
