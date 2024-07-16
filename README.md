@@ -106,4 +106,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original-wordmark.svg" alt="Maven" width="40" height="40">
 </a>
 
+## 💳 Github Profile Summary Card
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ManuSureshh&theme=vue"/>
+</p>
+
 
