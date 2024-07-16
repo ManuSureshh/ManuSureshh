@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on DevOps.
 - 🌱 I’m currently learning DevSecOps & Cloud DevOps.
 - 📫 How to reach me: Check social links below.
-- ⚡ Secret: The dreams last more than our lives.
+- ⚡ Philosophy: The dreams last more than our lives.
 
 
 <h3 align="left">Connect with me:</h3>
