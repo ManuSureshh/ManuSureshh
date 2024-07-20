@@ -97,3 +97,13 @@
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ManuSureshh&show_icons=true&theme=vue" />
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ManuSureshh&theme=vue" />
 </p>
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ManuSureshh&theme=vue" />
+</p>
+
+## 📊 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuSureshh&layout=compact&theme=vue" />
+</p>
