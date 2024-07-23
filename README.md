@@ -3,7 +3,7 @@
          height="45"
          width="45" /> I'm Manu Suresh </h1>
 
-# 💫 About Me :
+## 💫 About Me :
 - 😄 Pronouns: He/His
 - 🔭 I’m currently working on DevOps.
 - 🌱 I’m currently learning DevSecOps & Cloud DevOps.
